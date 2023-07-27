@@ -1,5 +1,5 @@
 """This module asks if the number is even.
-Outputs a random number and it's evenness."""
+Returns a random number and it's evenness."""
 import random
 
 
