@@ -23,4 +23,4 @@ def random_and_check():
     return random_num, right_answer
 
 
-game_rule = 'Answer "yes" if the number is even, otherwise answer "no"'
+game_rule = 'Answer "yes" if the number is even, otherwise answer "no".'
