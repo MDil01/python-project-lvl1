@@ -1,11 +1,11 @@
 """This module asks if the number is even.
-Outputs a random number and it's evenness"""
+Outputs a random number and it's evenness."""
 import random
 
 
 def check_even(num):
     """Check the given number for evenness.
-    If even, then returns 'yes', otherwise - 'no'"""
+    If even, then returns 'yes', otherwise - 'no'."""
     if num % 2 == 0:
         return 'yes'
     return 'no'
