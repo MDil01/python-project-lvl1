@@ -6,3 +6,14 @@ Welcome to the Brain Games! This project contains five arithmetic games. The pla
 ### Installing and running brain-even. 
 [![asciicast](https://asciinema.org/a/599907.svg)](https://asciinema.org/a/599907)
 
+### Running brain-calc
+[![asciicast](https://asciinema.org/a/599913.svg)](https://asciinema.org/a/599913)
+
+### Running brain-gcd
+[![asciicast](https://asciinema.org/a/599914.svg)](https://asciinema.org/a/599914)
+
+### Running brain-progression
+[![asciicast](https://asciinema.org/a/599917.svg)](https://asciinema.org/a/599917)
+
+### Running brain-prime
+[![asciicast](https://asciinema.org/a/599918.svg)](https://asciinema.org/a/599918)
